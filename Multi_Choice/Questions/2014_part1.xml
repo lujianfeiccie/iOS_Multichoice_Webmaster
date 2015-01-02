@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<question title="1、数据库管理技术是在____的基础上发展起来的。" answer="文件系统" note="">
+<choice>文件系统</choice>
+<choice>编译系统</choice>
+<choice>应用程序系统</choice>
+<choice>数据库管理系统</choice>
+</question>
+<question title="2、数据模型的三要素是数据结构、数据操作和_____。" answer="数据完整性约束" note="">
+<choice>数据安全</choice>
+<choice>数据兼容</choice>
+<choice>数据完整性约束</choice>
+<choice>数据维护</choice>
+</question>
+<question title="3、建立数据库系统的主要目标是减少数据的冗余，提高数据的独立性，并集中检查____。" answer="数据完整性" note="">
+<choice>数据操作性</choice>
+<choice>数据兼容性</choice>
+<choice>数据完整性</choice>
+<choice>数据可维护性</choice>
+</question>
+<question title="4、CPU执行程序时， 为了从内存中读取指令， 需要先将____的内容输送到数据总线。" answer="程序计数器(PC)" note="">
+<choice>指令寄存器</choice>
+<choice>程序计数器(PC)</choice>
+<choice>标志寄存器</choice>
+<choice>变址寄存器</choice>
+</question>
+<question title="5、_____不能减少用户计算机被攻击的可能性。" answer="尽量避免开放过多的网络服务" note="">
+<choice>选用比较长和复杂的用户登录口令</choice>
+<choice>使用防病毒软件</choice>
+<choice>尽量避免开放过多的网络服务</choice>
+<choice>定期扫描系统硬盘碎片</choice>
+</question>
+<question title="6、TCP／IP协议分为四层，分别为应用层、传输层、网际层和网络接口层。不属于应用层协议的是____。" answer="FFP" note="">
+<choice>SNMP</choice>
+<choice>UDP</choice>
+<choice>TELNET</choice>
+<choice>FFP</choice>
+</question>
+<question title="7、通过局域网连接到Internet时，计算机上必须有____。" answer="网络适配器" note="">
+<choice>MODEM</choice>
+<choice>网络适配器</choice>
+<choice>电话</choice>
+<choice>USB接口</choice>
+</question>
+<question title="8、若Web站点的Intemet域名是www．1wh．com，IP为192．168．1．21，现将TCP端口改为8080，则用户在浏览器的地址栏中输入____后就可访问该网" answer="ｈttp：//192．168．1．21：8080" note="">
+<choice>ｈttp：//192．168．1．21</choice>
+<choice>ｈttp：//www.1wh．com</choice>
+<choice>ｈttp：//192．168．1．21：8080</choice>
+<choice>ｈttp：//www．1wh．com/8080</choice>
+</question>
+<question title="9、每个Web站点必须有一个主目录来发布信息，lis默认的主目录为_____，除了主目录以外还可以采用虚拟目录作为发布目录。" answer="＼Inetpub＼wwwroot" note="">
+<choice>＼Website</choice>
+<choice>＼Inetpub＼wwwroot</choice>
+<choice>＼Internet</choice>
+<choice>＼internet＼website</choice>
+</question>
+<question title="10、在局域网模型中，数据链路层分为_____。" answer="逻辑链路控制子层和媒体访问控制子层" note="">
+<choice>逻辑链路控制子层和网络子层</choice>
+<choice>逻辑链路控制子层和媒体访问控制子层</choice>
+<choice>网络接口访问控制子层和媒体访问控制子层</choice>
+<choice>逻辑链路控制子层和网络接口访问控制子层</choice>
+</question>
+<question title="11、网络管理基本上由网络管理者、网管代理、网络管理协议和管理信息库4个要素组成。当网管代理向管理站发送异步事件报告时，使用的操作是_____" answer="get-next" note="">
+<choice>get</choice>
+<choice>get-next</choice>
+<choice>trap</choice>
+<choice>set</choice>
+</question>
+<question title="12、下面哪一项正确描述了路由协议_____" answer="通过执行一个算法来完成路由选择的一种协议" note="">
+<choice>允许数据包在主机间传送的一种协议</choice>
+<choice>定义数据包中域的格式和用法的一种方式</choice>
+<choice>通过执行一个算法来完成路由选择的一种协议</choice>
+<choice>指定MAC地址和IP地址捆绑的方式和时间的一种协议</choice>
+</question>
+<question title="13、以下哪些内容是路由信息中所不包含的_____" answer="下一跳" note="">
+<choice>源地址</choice>
+<choice>下一跳</choice>
+<choice>目标网络</choice>
+<choice>路由权值</choice>
+</question>
+<question title="14、以下说法那些是正确的_____" answer="如果几个动态路由协议都找到了到达同一目标网络的最佳路由，这几条路由都会被加入路由表中" note="">
+<choice>路由优先级与路由权值的计算是一致的</choice>
+<choice>路由权的计算可能基于路径某单一特性计算，也可能基于路径多种属性</choice>
+<choice>如果几个动态路由协议都找到了到达同一目标网络的最佳路由，这几条路由都会被加入路由表中</choice>
+<choice>动态路由协议是按照路由的路由权值来判断路由的好坏，并且每一种路由协议的判断方法都是不一样的</choice>
+</question>
+<question title="15、Internet的网络拓扑结构是一种___结构。" answer="网型" note="">
+<choice>线型</choice>
+<choice>网型</choice>
+<choice>总线型</choice>
+<choice>矩形</choice>
+</question>
+<question title="16、SLIP协议和PPP协议都是属于___通信方式。" answer="点对点" note="">
+<choice>点对点</choice>
+<choice>点对面</choice>
+<choice>面对点</choice>
+<choice>面对面</choice>
+</question>
+<question title="17、ISDN的BRI服务中，一个B通道的速率是____。" answer="64Kbps" note="">
+<choice>64Kbps</choice>
+<choice>128Kbps</choice>
+<choice>256Kbps</choice>
+<choice>1Mbps</choice>
+</question>
+<question title="18、使用域名的好处是____。" answer="方便记忆" note="">
+<choice>方便管理</choice>
+<choice>方便记忆</choice>
+<choice>省钱</choice>
+<choice>输入方便</choice>
+</question>
+<question title="19、交换机的交换方式有两种，___方式适合于线路出错较多的情况。" answer="存储转发" note="">
+<choice>直接转发</choice>
+<choice>存储转发</choice>
+<choice>存储管理</choice>
+<choice>间接转发</choice>
+</question>
+<question title="20、局域网络标准对应OSI模型的_____层。" answer="下三层" note="">
+<choice>上三层</choice>
+<choice>中间三层</choice>
+<choice>下三层</choice>
+<choice>全部</choice>
+</question>
+<question title="21、奇偶校验可以检查出____位出错的情况。" answer="1" note="">
+<choice>1</choice>
+<choice>2</choice>
+<choice>3</choice>
+<choice>0</choice>
+</question>
+<question title="22、在10Base－T 标准中，Hub通过RJ－45接口与计算机连线距离不超过____。" answer="150M" note="">
+<choice>100M</choice>
+<choice>150M</choice>
+<choice>200M</choice>
+<choice>300M</choice>
+</question>
+<question title="23、在防火墙系统中，防火墙解决不了网络____的安全问题。" answer="内部" note="">
+<choice>外部</choice>
+<choice>DMZ</choice>
+<choice>内部</choice>
+<choice>中间件</choice>
+</question>
+<question title="24、采用镜像服务器的方式，连接两个服务器的链路速度只有比LAN的速度____才有意义。" answer="快" note="">
+<choice>快</choice>
+<choice>一致</choice>
+<choice>慢</choice>
+<choice>中转</choice>
+</question>
+<question title="25、电子邮件中的两个协议中，____协议是运行在传输程序与远程邮件服务器之间的协议。" answer="SMTP" note="">
+<choice>SMTP</choice>
+<choice>TCP</choice>
+<choice>POP3</choice>
+<choice>ARP</choice>
+</question>
+</root>

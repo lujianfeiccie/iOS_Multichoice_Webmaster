@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<question title="49、不属于存储管理功能的是____。" answer="辅存空间的管理" note="存储管理是操作系统的重要组成部分，它负责管理计算机系统的重要资源主存储器。存储管理的主要功能包括：虚拟存储器、地址变换、内外存数据传输的控制、内存的分配与回收、内存信息的共享与保护。">
+<choice>主存空间的分配和回收</choice>
+<choice>主存空间的共享和保护</choice>
+<choice>辅存空间的管理</choice>
+<choice>实现地址转换</choice>
+</question>
+<question title="50、在请求页式存储管理中，当查找的页不在_____中时会产生缺页中断。" answer="内存" note="请求页式管理所采取的页面调入方式是当需要执行某条指令而又发现它不在内存时或当执行某条指令需要访问其他的数据或指令时，这些指令和数据不在内存中，就会发生缺页中断，系统将外存中相应的页面调入内存。">
+<choice>外存</choice>
+<choice>虚存</choice>
+<choice>内存</choice>
+<choice>地址空间</choice>
+</question>
+<question title="51、现实世界中事物的一般特性在信息世界中称为____。" answer="属性" note="概念模型，也称信息模型，它是按照用户观点来对数据和信息建模，是现实世界到机器世界的一个中间层次，是数据库设计人员和用户之间进行交流的语言。概念模型涉及的基本概念有以下几个。&#x0A;&#x0A;实体（Entity）：客观存在的并可相互区别的事物称为实体。&#x0A;&#x0A;属性（Attribute）：实体所具有的某一特性称为属性。一个实体可以由若干个属性来描述。&#x0A;&#x0A;码（Key）：唯一标识实体的属性集称为码。&#x0A;&#x0A;域（Domain）：属性的取值范围称为该属性的域。&#x0A;&#x0A;实体型（Entity Type）：用实体名及其属性名集合来抽象和刻画的同类实体，称为实体型。&#x0A;&#x0A;实体集（Entity Set）：同型实体的集合称为实体集。&#x0A;&#x0A;联系（Relationship）：包括实体的各属性之间的联系和不同实体集之间的联系。">
+<choice>实体</choice>
+<choice>关系</choice>
+<choice>属性</choice>
+<choice>关系键</choice>
+</question>
+<question title="52、SQL的Select语句中From Q应理解为____。" answer="Ｑ中的全部元组" note="数据库查询是数据库的核心操作。SQL语言提供了Select语句进行数据库的查询，该语句具有灵活的使用方式和丰富的功能，其一般格式为： Select [all | distinct]&lt;目标列表达式&gt;[，&lt;目标列表达式&gt;]&#x0A;From &lt;表名或视图名&gt;[，&lt;表名或视图名&gt;]&#x0A;[Where &lt;条件表达式&gt;]&#x0A;[Group By &lt;列名1&gt; [Having &lt;条件表达式&gt;]]&#x0A;[Order By &lt;列名2&gt; [Asc | Desc]]&#x0A;&#x0A;Select语句的含义是：如有Where子句，则根据Where子句的条件表达式，从From子句指定的基本表或视图中找到满足条件的元组，再按Select子句中的目标表达式，选出元组中的属性值形成结果表。如果有Group子句，则将结果&lt;列名1&gt;的值进行分组，该属性列值相等的元组为一个组。通常会在每组中作用集函数，如果Group子句带Having短句，则只有满足指定条件的组才能输出。如果有Order子句，则结果表还要按&lt;列名2&gt;的值升序或降序排序">
+<choice>Ｑ中的元组序号</choice>
+<choice>关系Q的元组变量</choice>
+<choice>基本表Q的结构定义</choice>
+<choice>Ｑ中的全部元组</choice>
+</question>
+<question title="55、关系数据库的数据和更新操作必须遵循的完整性规则包括_____。" answer="实体完整性、参照完整性和用户定义的完整性" note="关系模型的完整性规则是对关系的某种约束条件。关系模型有3类完整性约束：实
+&#x0A;体完整性、参照完整性和用户定义的完整性。其中实体完整性和参照完整性是关系模型必须
+&#x0A;满足的完整性约束条件，被称为是关系的两个不变性，应该由关系系统自动支持。&#x0A;实体完整性规则规定基本关系的所有主属性都不能取空值，对于实体完整性规则&#x0A;&#x0A;说明如下。&#x0A;实体完整性规则是针对基本关系而言的。&#x0A;现实世界中的实体是可区分的，即它们具有某种唯一性标识，相应的关系模型中以主码作为
+&#x0A;唯一性标识。&#x0A;主码中的属性即主属性不能取空值。&#x0A;参照完整性是对关系间引用数据的一种限制。若属性组A是基本关系R1的外码，它与基本关
+&#x0A;系R2的主码K相对应，则R1中每个元组在A上的值要么取空值，要么等于R2中某元组的主码值
+&#x0A;。&#x0A;用户定义的完整性是针对某一具体关系数据库的约束条件。它反映某一应用所涉及的数据必
+&#x0A;须满足的语义要求，例如某个属性必须取唯一值，某些属性之间应满足一定的函数关系、某
+&#x0A;个属性的取值范围在0～100之间等。">
+<choice>实体完整性和参照完整性</choice>
+<choice>参照完整性和用户定义的完整性</choice>
+<choice>实体完整性和用户定义的完整性</choice>
+<choice>实体完整性、参照完整性和用户定义的完整性</choice>
+</question>
+<question title="56、ATM采用的复用方式是_____" answer="统计时分复用" note="ATM是异步传输模式。所谓异步就是指各个不同来源的信元，只要准备好就可进入信道，信元的排列不是固定的，也叫统计时分复用。">
+<choice>异步复用</choice>
+<choice>时分复用</choice>
+<choice>统计时分复用</choice>
+<choice>同步时分复用</choice>
+</question>
+<question title="60、适合于高速网络系统和中远距离数据传输。_____" answer="光纤" note="同轴电缆不适合高速传输，双绞线随着传输速度的提高，距离变得很短，无线介质也不适合高速网络系统和中远距离数据传输，只有光纤适合高速网络系统和中远距离数据传输">
+<choice>双绞线</choice>
+<choice>同轴电缆</choice>
+<choice>光纤</choice>
+<choice>无线介质</choice>
+</question>
+<question title="61. 介质的最大利用率取决于帧的长度和传播时间，当帧的___时，介质的利用率越高。" answer="长度越长，传播时间越短" note="传输介质利用率是指有效传输数据的时间和总时间之比，传播延迟占用的时间越短，利用率越高。另外，帧的长度越长，即得到发送权后，传输的数据越多，有效时间就越多，介质的利用率就越高。">
+<choice>长度越长，传播时间越长</choice>
+<choice>长度越短，传播时间越短</choice>
+<choice>长度越长，传播时间越短</choice>
+<choice>长度越短，传播时间越长</choice>
+</question>
+<question title="62、CSMA/CD 中一旦某个站点检测到冲突，它就立即停止发送，其他站点____" answer="都会收到阻塞信号" note="IEEE 802.3标准中对CSMA/CD工作方式约定，一旦某个站点检测到冲突，它就立即停止发送，并发送一强的阻塞信号，便于其他站点迅速接收到，马上停止数据发送">
+<choice>都处于发送状态</choice>
+<choice>都会相继竞争发送权</choice>
+<choice>都会收到阻塞信号</choice>
+<choice>仍有可能继续发送帧</choice>
+</question>
+<question title="63、在一个主干为1000Mbps交换式以太网的结构中_____。" answer="可以包括1000Mbps、100Mbps和10Mbps交换机" note="主干为1000Mbps的网络，一般主交换机为1000Mbps，二级交换机和三级交换机可以降低层次，用100Mbps或10Mbps的交换机。">
+<choice>只能包括1000Mbps交换机</choice>
+<choice>可以包括1000Mbps、100Mbps和10Mbps交换机</choice>
+<choice>应包括 1000Mbps和100Mbps交换机</choice>
+<choice>可以包括1000Mbps和10Mbps交换机</choice>
+</question>
+<question title="64、在____方式的交换机部署中，交换机的位置比较灵活。" answer="级联" note="交换机的部署可以分为堆叠式和级联式，堆叠式又分为菊花链堆叠和矩阵堆叠，差别在于后备的连接方式不同，但从位置上，都是集中式的。级联式中，交换机可以部署在不同的位置，之间的距离可以扩大，部署起来比较灵活">
+<choice>级联</choice>
+<choice>模块</choice>
+<choice>菊花链堆叠</choice>
+<choice>矩阵堆叠</choice>
+</question>
+<question title="65、VLAN和VPN的关系是____。" answer="两者的应用场合和目的不同" note="VLAN和VPN，一个称为虚拟局域网，一个称为虚拟专网，虽都有虚拟的意思，但概念不一样，两者的应用场合和目的也不同。VLAN是将局域网中连接在同一交换机或不同交换机的计算机按部门分组划分，就像不同的子网一样。而VPN是指通过公共网络，将远程的用户或一个网络与本地网络连接，通过安全措施，达到像在内部网络使用一样">
+<choice>两者的应用场合和目的不同</choice>
+<choice>两者使用的技术相同</choice>
+<choice>两者的目的相同</choice>
+<choice>两者的用户不同</choice>
+</question>
+<question title="67、在计算机网络中，能将异种网络互联起来，实现不同网络协议相互转换的网络互联设备是_____。" answer="网关" note="实现异种网络互联，是指运行不同网络协议的网络互联，要解决的一个主要问题是网络协议相互转换，这是传输层以上层的转换任务，需要网关来实现">
+<choice>网桥</choice>
+<choice>集线器</choice>
+<choice>路由器</choice>
+<choice>网关</choice>
+</question>
+<question title="68、以无碎片直通方式工作的交换机对于以太网的帧，____内容不去读它。" answer="大于64B的部分" note="交换机的工作方式可以分为存储转发式、直通式和无碎片直通式。无碎片 直通式是指交换机读取部分数据，然后转发出去，由于IEEE 802.3规定的以太网的最 小帧的长度为64B，其中包含了源地址和目的地址，后面的不再读入缓存，而是直接 转发出去，这样小于最小帧的数据就被认为是碎片，过滤掉了，称为无碎片直通工作方式">
+<choice>原地址</choice>
+<choice>目的地址</choice>
+<choice>大于64B的部分</choice>
+<choice>小于64B的部分</choice>
+</question>
+<question title="69、网桥的功能不包括_____。" answer="处理网络分组" note="网桥处理的是数据链路层的功能，可以实现不同MAC帧的转化，如IEEE 802.3和IEEE 802.5帧格式的转换，进行帧的接收存储和转发，但不能处理网络分组，处理分组是网络层设备的功能，如路由器">
+<choice>互联不同MAC协议的局域网</choice>
+<choice>存储帧</choice>
+<choice>处理网络分组</choice>
+<choice>转发帧</choice>
+</question>
+<question title="70、帧中继网络的弱点是____。" answer="差错处理能力差" note="帧中继是在克服X.25缺点的基础上发展起来的，由于采用光缆作为传输介质，帧中继认为帧在传输过程中基本不出错，因而在得到帧的目的地址后马上转发，减少了帧在每个结点的时延。这就造成了它的弱点是差错处理能力差，要等到帧传送到目的点完全接收下来，才知道错误">
+<choice>速度慢</choice>
+<choice>线路利用率低</choice>
+<choice>差错处理能力差</choice>
+<choice>误码率高</choice>
+</question>
+<question title="71、IP地址为127.0.0.1，那么它通常表示_____。" answer="实现本机回送功能的地址" note="IP地址127.0.0.1是一个回路地址，表示本机，向目的是127.0.0.1的地址发送数据包时，网卡设备会向应用程序直接返回应答">
+<choice>实现本机回送功能的地址</choice>
+<choice>A类广播地址</choice>
+<choice>无效地址</choice>
+<choice>B类广播地址</choice>
+</question>
+<question title="71、已知一个A类的IP地址61.34.56.78，若根据IP类别划分，则网络号是____。" answer="61.0.0.0" note="IP地址61.34.56.78是A类地址，A类地址的网络号是前8位，因此网络号是61.0.0.0">
+<choice>61.0.0.0</choice>
+<choice>61.34.0.0</choice>
+<choice>61.56.78.0</choice>
+<choice>78.0.0.0</choice>
+</question>
+<question title="72(1)、如果通过局域网连接Internet，需要设置TCP/IP协议的属性，当指定IP地址时，需要指定3个IP地址，即本机地址，____地址和DNS服务器的地址。" answer="默认网关" note="在配置本机的IP地址时，除指定本机的IP地址和子网掩码外，还要指定本机的默认网关IP和DNS服务器的IP地址。默认网关用于向不同的网络传送数据，DNS用于将名字转化为IP地址">
+<choice>默认网关</choice>
+<choice>交换机</choice>
+<choice>TCP服务器</choice>
+<choice>远程访问服务器</choice>
+</question>
+<question title="72(2)、如果通过局域网连接Internet，需要设置TCP/IP协议的属性，当指定IP地址时，需要指定3个IP地址，即本机地址，默认网关地址和____的地址。" answer="ＤＮＳ服务器" note="在配置本机的IP地址时，除指定本机的IP地址和子网掩码外，还要指定本机的默认网关IP和DNS服务器的IP地址。默认网关用于向不同的网络传送数据，DNS用于将名字转化为IP地址">
+<choice>Ｗｅｂ服务器</choice>
+<choice>文件服务器</choice>
+<choice>邮件服务器</choice>
+<choice>ＤＮＳ服务器</choice>
+</question>
+<question title="73、在网络排除故障时不会经常使用的命令是_____。" answer="dir" note="在日常网络故障的诊断中，有几条常用的命令，ping主要测试到目的主机的可达性，netstat 主要用于查看网络的状态和一些统计信息，tracert 主要用于测试到目的主机中间经过的路径信息。dir与网络无关，是操作系统命令，用于查看目录信息">
+<choice>ping</choice>
+<choice>netstat</choice>
+<choice>tracert</choice>
+<choice>dir</choice>
+</question>
+<question title="74、关于DNS，下面说法不正确的是____。" answer="每次地址转换（解析），只有一台DNS服务器完成" note="访问网络时，很难记住数字表示的IP地址，DNS将用户易于记忆的域名转化为IP地址，若直接得知IP地址，当然能访问网络主机。在互联网上存在许多DNS服务器，一般一个DNS服务器负责一个子域的名字解析，整个DNS系统是由分布在不同地点不同层次的DNS服务器构成的，当用户需要解析一个域名时，可能要通过多个DNS服务器的请求转发，将要解析的域名提交给负责的DNS服务器解析，并返回结果">
+<choice>没有DNS服务器，知道IP地址也能浏览上网</choice>
+<choice>DNS 负责将机器名字转换为IP地址</choice>
+<choice>每次地址转换（解析），只有一台DNS服务器完成</choice>
+<choice>DNS系统是分布式的</choice>
+</question>
+<question title="75、____不是Internet提供的服务。" answer="PDC" note="Internet中常用到的服务有网络浏览，即WWW；文件下载，即FTP；电子邮件的收发，即E-mail。PDC是局域网中，主域控制器的缩写，用于局域网的资源 管理">
+<choice>WWW</choice>
+<choice>FTP</choice>
+<choice>PDC</choice>
+<choice>E-mail</choice>
+</question>
+<question title="76、关于WWW，不正确的说法是_____。" answer="ＷＷＷ在查找不同信息时，使用不同的界面" note="在用WWW进行网上检索时，使用的是浏览器作为工具，如IE浏览器，尽管访问的网址不同，内容不一样，但风格是一致的，即超文本显示，因此浏览器向用户提供的使用界面是一样的">
+<choice>ＷＷＷ是World Wide Web的缩写，通常称为万维网</choice>
+<choice>ＷＷＷ是Internet上最流行的信息检索方式</choice>
+<choice>ＷＷＷ在查找不同信息时，使用不同的界面</choice>
+<choice>在Intranet上也使用WWW方式访问网络</choice>
+</question>
+<question title="77、下列没有经过压缩的多媒体文件格式是____。" answer="BMP" note="多媒体文件格式分为音频、图像、视频等几种类别，为了节省存储空间和传输时间，都进行了必要的压缩，产生了不同压缩格式的文件类型。BMP是一种图像文件格式，即位图，没有经过压缩，一般文件也比较大">
+<choice>BMP</choice>
+<choice>JPEG</choice>
+<choice>MPEG</choice>
+<choice>AVI</choice>
+</question>
+</root>

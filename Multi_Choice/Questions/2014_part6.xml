@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<question title="120、在百度搜索引擎中输入内容为：网络管理员 -大纲，其作用是____。" answer="搜索关于“网络管理员”，但不含“大纲”的资料" note="">
+<choice>搜索包含“网络管理员 -大纲”的资料</choice>
+<choice>搜索既包含“网络管理员”,又包含“大纲”的资料</choice>
+<choice>搜索关于“网络管理员”，但不含“大纲”的资料</choice>
+<choice>搜索包含“网络管理员大纲”的资料</choice>
+</question>
+<question title="121、Outlook Express作为邮件代理软件有诸多优点，下列说法中错误的是____。" answer="不能发送和接收安全邮件" note="">
+<choice>可以脱机处理邮件</choice>
+<choice>可以管理多个邮件账号</choice>
+<choice>可以使用通讯簿存储和检索电子邮件地址</choice>
+<choice>不能发送和接收安全邮件</choice>
+</question>
+<question title="122、常见的图像文件格式不包括____。" answer="MIDI" note="">
+<choice>BMP</choice>
+<choice>MIDI</choice>
+<choice>GIF</choice>
+<choice>JPG</choice>
+</question>
+<question title="123、在http://www.test.com/main/index.htm中，index.htm是____。" answer="页面文件" note="">
+<choice>协议名</choice>
+<choice>域名</choice>
+<choice>主机名</choice>
+<choice>页面文件</choice>
+</question>
+<question title="124、POP3服务默认的TCP端口号是____。" answer="110" note="">
+<choice>20</choice>
+<choice>25</choice>
+<choice>80</choice>
+<choice>110</choice>
+</question>
+<question title="125、下列关于网络攻击的说法中，错误的是____。" answer="向多个邮箱群发同一封电子邮件是一种网络攻击行为" note="">
+<choice>钓鱼网站通过窃取用户的账号、密码来进行网络攻击</choice>
+<choice>向多个邮箱群发同一封电子邮件是一种网络攻击行为</choice>
+<choice>采用DOS攻击使计算机或网络无法提供正常的服务</choice>
+<choice>利用Sniffer可以发起网络监听攻击</choice>
+</question>
+<question title="126、在包过滤防火墙中，定义数据包过滤规则的是____。" answer="ACL" note="">
+<choice>路由表</choice>
+<choice>ARP</choice>
+<choice>NAT</choice>
+<choice>ACL</choice>
+</question>
+<question title="127 、在Windows系统中，管理权限最高的组是___。" answer="administrators" note="">
+<choice>everyone</choice>
+<choice>administrators</choice>
+<choice>power users</choice>
+<choice>users</choice>
+</question>
+<question title="128、如果杀毒软件报告一系列的Word文档被病毒感染，则可以推断病毒类型是____， 如果用磁盘检测工具（CHKDSK、SCANDISK等）检测磁盘发现大量文件链接地址错误，表明磁盘可能被目录型病毒感染。" answer="宏病毒" note="">
+<choice>文件型</choice>
+<choice>引导型</choice>
+<choice>目录型</choice>
+<choice>宏病毒</choice>
+</question>
+<question title="128、如果杀毒软件报告一系列的Word文档被病毒感染，则可以推断病毒类型是宏病毒 ， 如果用磁盘检测工具（CHKDSK、SCANDISK等）检测磁盘发现大量文件链接地址错误，表明磁盘可能被___病毒感染。" answer="目录型" note="">
+<choice>文件型</choice>
+<choice>引导型</choice>
+<choice>目录型</choice>
+<choice>宏病毒</choice>
+</question>
+<question title="129、下面加密算法中属于公钥加密算法的是____。" answer="RSA" note="">
+<choice>DES</choice>
+<choice>IDEA</choice>
+<choice>RSA</choice>
+<choice>MD5</choice>
+</question>
+<question title="130、在千兆以太网标准中，____使用5类双绞线作为网络传输介质。" answer="1000BaseT" note="">
+<choice>1000BaseLX</choice>
+<choice>1000BaseSX</choice>
+<choice>1000BaseCX</choice>
+<choice>1000BaseT</choice>
+</question>
+<question title="131、____可以连接向主机192.168.1.100发送测试数据包，直到按下CTRL+C中断。" answer="ping 192.168.1.100 -t" note="">
+<choice>ping 192.168.1.100 -a</choice>
+<choice>ping 192.168.1.100 -n</choice>
+<choice>ping 192.168.1.100 -t</choice>
+<choice>ping 192.168.1.100 -w</choice>
+</question>
+<question title="132、在Windows XP中，可采用____命令手工释放从DHCP服务器获取的IP地址。" answer="ipconfig/release" note="">
+<choice>ipconfig/release</choice>
+<choice>ip/release</choice>
+<choice>config/release</choice>
+<choice>hcp/release</choice>
+</question>
+<question title="134、要添加一条到达目标10.41.0.0（子网掩码为255.255.0.0）的路由，下一跃点地址为10.27.0.1，则键入____命令。" answer="route add 10.41.0.0 mask 255.255.0.0 10.27.0.1" note="">
+<choice>route add 10.41.0.0 mask 255.255.0.0 10.27.0.1</choice>
+<choice>route add 10.41.0.0 mask 0.0.255.255 10.27.0.1</choice>
+<choice>route add 10.27.0.1 mask 255.255.0.0 10.41.0.0</choice>
+<choice>route add 10.27.0.1 mask 0.0.255.255 10.41.0.0</choice>
+</question>
+<question title="135、在路由器配置中，将新的静态路由添加进路由表需要在____下进行。" answer="全局配置模式" note="">
+<choice>普通用户模式</choice>
+<choice>特权模式</choice>
+<choice>全局配置模式</choice>
+<choice>接口配置模式</choice>
+</question>
+<question title="136、在Linux操作系统中，默认的系统管理账户为____。" answer="root" note="">
+<choice>root</choice>
+<choice>administrator</choice>
+<choice>boot</choice>
+<choice>master</choice>
+</question>
+<question title="137、在Linux操作系统中，可以通过____命令终止进程的执行。" answer="kill" note="">
+<choice>ps</choice>
+<choice>configure</choice>
+<choice>kill</choice>
+<choice>dd</choice>
+</question>
+<question title="138、下列关于ADSL的描述中，错误的是_____。" answer="ＡDSL提供下行线和上行线路对称的带宽" note="">
+<choice>ＡDSL是以普通铜质电话线为传输介质的传输技术</choice>
+<choice>ＡDSL提供下行线和上行线路对称的带宽</choice>
+<choice>ＡDSL采用频分多路复用技术提供较高的数据速率</choice>
+<choice>ＡDSL只需要一对双绞线就可完成双向传输</choice>
+</question>
+<question title="139、下列DNS服务器中负责非本地域名查询的是____。" answer="转发域名服务器" note="">
+<choice>缓存域名服务器</choice>
+<choice>主域名服务器</choice>
+<choice>辅域名服务器</choice>
+<choice>转发域名服务器</choice>
+</question>
+<question title="140、下列关于DHCP服务器的描述中，正确是___。" answer="需要保留IP地址可以包含在DHCP服务器的地址池中" note="">
+<choice>客户端只能接受本网段内DHCP服务器提供的IP地址</choice>
+<choice>需要保留IP地址可以包含在DHCP服务器的地址池中</choice>
+<choice>DHCP服务器不能帮助用户指定DNS服务器</choice>
+<choice>DHCP服务器可以将一个IP地址同时分配给两个不同用户</choice>
+</question>
+<question title="141、建筑物综合布线系统中的干线子系统是____。" answer="各楼层设备之间的互连系统" note="">
+<choice>各个楼层接线间配线架到工作区信息插座之间所安装的线缆</choice>
+<choice>由终端到信息插座之间的连线系统</choice>
+<choice>各楼层设备之间的互连系统</choice>
+<choice>连接各个建筑物的通信系统</choice>
+</question>
+<question title="142、交换机配置命令2950A（vlan）#vlan 3 name vlan3 的作用是_____。" answer="创建编号为3的VLAN，并命名为vlan3" note="">
+<choice>创建编号为3的VLAN，并命名为vlan3</choice>
+<choice>把名称为vlan3的主机划归编号为3的VLAN</choice>
+<choice>把名称为vlan3的端口划归编号为3的VLAN</choice>
+<choice>进入vlan3配置子模式</choice>
+</question>
+<question title="143、采用OSPF协议配置路由协议时，主干区域为____。" answer="区域0" note="">
+<choice>区域0</choice>
+<choice>区域01</choice>
+<choice>区域10</choice>
+<choice>区域100</choice>
+</question>
+<question title="144、中央处理单元（CPU）不包括____。" answer="Ｉ／０总线" note="">
+<choice>算术逻辑运算单元</choice>
+<choice>控制器</choice>
+<choice>通用寄存器组</choice>
+<choice>Ｉ／０总线</choice>
+</question>
+</root>

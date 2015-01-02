@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<question title="167、IPv6地址FF05::B3的完整形式是____。" answer="FF05:0:0:0:0:0:0:00B3" note="">
+<choice>FF05:0000:B300</choice>
+<choice>FF05:0:0:0:0:0:0:B300</choice>
+<choice>FF05:0000:00B3</choice>
+<choice>FF05:0:0:0:0:0:0:00B3</choice>
+</question>
+<question title="168(1)、大型网络通常使用动态分配IP地址的配置方案，当用户第一次登陆网路时广播一个____请求包，DHCP服务器以Dhcpoffer应答包提供可租用的IP地址，然后再经过一次握手确认，用户就获得确认，用户就获得了可用的IP地址。" answer="Dhcpdiscover" note="">
+<choice>Dhcpdiscover</choice>
+<choice>Dhcpoffer</choice>
+<choice>Dhcprequest</choice>
+<choice>Dhcpack</choice>
+</question>
+<question title="168(2)、大型网络通常使用动态分配IP地址的配置方案，当用户第一次登陆网路时广播一个Dhcpdiscover 请求包，DHCP服务器以___应答包提供可租用的IP地址，然后再经过一次握手确认，用户就获得确认，用户就获得了可用的IP地址。" answer="Dhcpoffer" note="">
+<choice>Dhcpdiscover</choice>
+<choice>Dhcpoffer</choice>
+<choice>Dhcprequest</choice>
+<choice>Dhcpa</choice>
+</question>
+<question title="169、2009年发布的_____标准可以将WLAN的传输速率由54Mb/s提供到300~600Mb/s." answer="IEEE 802.11n" note="">
+<choice>IEEE 802.11n</choice>
+<choice>IEEE 802.11a</choice>
+<choice>IEEE 802.11b</choice>
+<choice>IEEE 802.11g</choice>
+</question>
+<question title="170、IEEE802.3的MAC协议采用的监听算法是_____。" answer="坚持型监听" note="">
+<choice>非坚持型监听</choice>
+<choice>坚持型监听</choice>
+<choice>P坚持型监听</choice>
+<choice>随机访问型监听</choice>
+</question>
+<question title="171、在以太网中产生冲突碎片的原因是____。" answer="在一个冲突时槽内有多个站发送数据" note="">
+<choice>在一个冲突时槽内有多个站发送数据</choice>
+<choice>有的站没有监听而随意发送数据</choice>
+<choice>有的站只发送很短的数据帧</choice>
+<choice>由CSMA/CD协议缺陷而产生的冲突</choice>
+</question>
+<question title="172、使交换机从用户模式进入特权模式的命令是____。" answer="enable" note="">
+<choice>enable</choice>
+<choice>disable</choice>
+<choice>exit</choice>
+<choice>logout</choice>
+</question>
+<question title="173、下面关于虚拟局域网VLAN的描述中，正确的是____。" answer="一个VLAN是一个广播域" note="">
+<choice>一个VLAN是一个广播域</choice>
+<choice>一个VLAN是一个冲突域</choice>
+<choice>一个VLAN必须连接同一个交换机</choice>
+<choice>一个VLAN之间不能通信</choice>
+</question>
+<question title="174 、可以采用不同的方法配置动态VLAN,下面列出的方法中，错误的是____。" answer="根据交换机端口配置" note="">
+<choice>根据交换机端口配置</choice>
+<choice>根据上层协议配置</choice>
+<choice>根据IP地址配置</choice>
+<choice>根据管理策略配置</choice>
+</question>
+<question title="175、100BASE的传输介质是____。" answer="５类双绞线" note="">
+<choice>３类双绞线</choice>
+<choice>５类双绞线</choice>
+<choice>光线</choice>
+<choice>同轴电缆</choice>
+</question>
+<question title="177、HTML中的&lt;p&gt;&lt;/p&gt;标记用来定义_____。" answer="一个段落" note="">
+<choice>一个表格</choice>
+<choice>一个段落</choice>
+<choice>一个单元格</choice>
+<choice>一个标题</choice>
+</question>
+<question title="178、在HTML语言中，&gt用来表示_____。" answer="&gt;" note="">
+<choice>&gt;</choice>
+<choice>&lt;</choice>
+<choice>&copy;</choice>
+<choice>&reg;</choice>
+</question>
+<question title="179、_____属于Web客户端脚本语言。" answer="javascript" note="">
+<choice>javascript</choice>
+<choice>ASP</choice>
+<choice>JSP</choice>
+<choice>PHP</choice>
+</question>
+<question title="180、在ASP中，网页访问计数器一般采用_____对象记录。" answer="application" note="">
+<choice>response</choice>
+<choice>server</choice>
+<choice>request</choice>
+<choice>application</choice>
+</question>
+<question title="181、如果要清上网痕迹，必须_____。" answer="清除Cookie" note="">
+<choice>禁用ActionX控件</choice>
+<choice>查杀病毒</choice>
+<choice>清除Cookie</choice>
+<choice>禁用脚本</choice>
+</question>
+<question title="182(1)、MTP的默认端口为_____，其作用是发送邮件。" answer="25" note="">
+<choice>21</choice>
+<choice>23</choice>
+<choice>25</choice>
+<choice>80</choice>
+</question>
+<question title="182(2)、MTP的默认端口为25 ，其作用是___。" answer="发送邮件" note="">
+<choice>发送邮件</choice>
+<choice>接收邮件</choice>
+<choice>浏览网页</choice>
+<choice>QQ聊天</choice>
+</question>
+<question title="183、____协议可支付在电子邮件中的包含文本、图像、声音、视频及其应用程序的特定数据。" answer="MIME" note="">
+<choice>HTTP</choice>
+<choice>SMTP</choice>
+<choice>FTP</choice>
+<choice>MIME</choice>
+</question>
+<question title="184、FTP命令中pwd的功能是____。" answer="现实远程计算机上的当前目录" note="">
+<choice>显示本地计算机上的工作目录</choice>
+<choice>更改远程计算机的工作目录</choice>
+<choice>现实远程计算机上的当前目录</choice>
+<choice>重命名远程目录</choice>
+</question>
+<question title="185、如果使用大量的连接请求攻击计算机，使得所用可用的系统资源都被消耗殆尽，最终计算机无法再处理合法用户的请求，这种手段属于___攻击。" answer="拒绝服务" note="">
+<choice>拒绝服务</choice>
+<choice>口令入侵</choice>
+<choice>网络监控</choice>
+<choice>IP欺骗</choice>
+</question>
+<question title="186(1)、ARP攻击造成网络无法跨网段通信的原因是_____。可以使用arp -d命令清除攻击影响的ARP缓存。" answer="伪造网关ARP报文使得数据包无法发送到网关" note="">
+<choice>发送大量ARP报文造成网络拥塞</choice>
+<choice>伪造网关ARP报文使得数据包无法发送到网关</choice>
+<choice>ARP攻击破坏了网络的物理联通性</choice>
+<choice>ARP攻击破坏了网关设备</choice>
+</question>
+<question title="186(2)、ARP攻击造成网络无法跨网段通信的原因是伪造网关ARP报文使得数据包无法发送到网关 。可以使用___命令清除攻击影响的ARP缓存。" answer="arp –d" note="">
+<choice>arp –s</choice>
+<choice>arp –d</choice>
+<choice>arp –all</choice>
+<choice>arp –a</choice>
+</question>
+<question title="187、下列选项中，防范网络监听最有效的方法是_____。" answer="数据加密" note="">
+<choice>安装防火墙</choice>
+<choice>采用无线网络传输</choice>
+<choice>数据加密</choice>
+<choice>漏洞扫描</choice>
+</question>
+<question title="188、VPN涉及的关键安全技术中不包括_____。" answer="入侵检测技术" note="">
+<choice>隧道技术</choice>
+<choice>加密技术</choice>
+<choice>入侵检测技术</choice>
+<choice>身份认证技术</choice>
+</question>
+<question title="189、MD5是一种____算法。" answer="报文摘要" note="">
+<choice>共享密钥</choice>
+<choice>公开密钥</choice>
+<choice>报文摘要</choice>
+<choice>访问控制</choice>
+</question>
+</root>

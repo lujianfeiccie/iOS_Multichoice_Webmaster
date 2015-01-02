@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<question>
+<text tag="question" value="1．SAMBA 服务器四种共享方式的区别是什么？"/>
+<text tag="answer" value="user:进行访问之前需要输入有效的用户名及口令&#x0A;&#x0A;share:不需要有效的用户名及口令即可访问&#x0A;&#x0A;server:本质与user模式一样，但由其它samba服务器验证&#x0A;&#x0A;domain：指定该samba服务器是一个域控制器"/>
+</question>
+<question>
+<text tag="question" value="2．ISO/OSI 7层模型和TCP/IP 四层协议都是什么？"/>
+<text tag="answer" value="ISO/OSI七层架构:&#x0A;&#x0A;应用层 表示层 会话层 传输层 网络层 数据链路层 物理层&#x0A;&#x0A;TCP/IP 四层协议：&#x0A;&#x0A;应用层 DNS /HTTP/ FTP /IRC /SMTP / TELNEET&#x0A;&#x0A;传输层 TCP / UDP&#x0A;&#x0A;网间层 ICMP / IP&#x0A;&#x0A;网络接口层 ARP/RARP"/>
+</question>
+<question>
+<text tag="question" value="3、单位使用网络接入线为一条3M光纤，随着业务的扩大，人员的增多出现网络拥挤状态，为解决此问题，采取两种方案：一，将现有带宽增至6M，二，再申请一条3M带宽。如果此事由你决策，你会选择哪一种方案，并写出原因。"/>
+<text tag="answer" value="一般会采用多申请一条的做法，好处在于:&#x0A;&#x0A;分散攻击面、避免病毒扩散、更加灵活上网"/>
+</question>
+</root>

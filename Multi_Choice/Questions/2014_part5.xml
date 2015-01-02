@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<question title="103、Windows系统中的磁盘碎片整理程序____。" answer="使每个文件和文件夹占用卷上连续的磁盘空间，合并卷上的可用空间" note="">
+<choice>仅将卷上的可用空间合并，使其成为连续的区域</choice>
+<choice>只能使每个文件占用卷上连续的磁盘空间，合并卷上的可用空间</choice>
+<choice>只能使每个文件夹占用卷上连续的磁盘空间，合并卷上的可用空间</choice>
+<choice>使每个文件和文件夹占用卷上连续的磁盘空间，合并卷上的可用空间</choice>
+</question>
+<question title="104、对于二维数组a[1..6,1..8]，设每个元素占2个存储单元，且以列为主序存储，则元素a[4,4]相对于数组空间起始地址的偏移量是____个存储单元。" answer="54" note="104、对于二维数组a[1..6,1..8]，设每个元素占2个存储单元，且以列为主序存储，则元素a[4,4]相对于数组空间起始地址的偏移量是 D 个存储单元。">
+<choice>28</choice>
+<choice>42</choice>
+<choice>48</choice>
+<choice>54</choice>
+</question>
+<question title="106(1)、T1载波采用____复用技术，将24路话音复用在一条通信线路上，每路话音信号要经过编码器进行采样，采样频率为8000Hz。" answer="时分多路" note="">
+<choice>时分多路</choice>
+<choice>频分多路</choice>
+<choice>空分多路</choice>
+<choice>码分多址</choice>
+</question>
+<question title="106(2)、T1载波采用时分多路复用技术，将____路话音复用在一条通信线路上，每路话音信号要经过编码器进行采样，采样频率为8000Hz。" answer="24" note="">
+<choice>16</choice>
+<choice>24</choice>
+<choice>59</choice>
+<choice>124</choice>
+</question>
+<question title="106(3)、T1载波采用时分多路复用技术，将24路话音复用在一条通信线路上，每路话音信号要经过编码器进行采样，采样频率为____Hz。" answer="8000" note="">
+<choice>50</choice>
+<choice>1000</choice>
+<choice>8000</choice>
+<choice>10000</choice>
+</question>
+<question title="107、路由器工作在____层。" answer="网络层" note="">
+<choice>应用层</choice>
+<choice>传输层</choice>
+<choice>网络层</choice>
+<choice>数据链路层</choice>
+</question>
+<question title="108(1)、在下列应用层协议中，利用UDP实现无连接传输的是___ ，利用TCP实现面向连接传输的是FTP 。" answer="SNMP" note="">
+<choice>SMTP</choice>
+<choice>FTP</choice>
+<choice>TELNET</choice>
+<choice>SNMP</choice>
+</question>
+<question title="108(2)、在下列应用层协议中，利用UDP实现无连接传输的是SNMP ，利用TCP实现面向连接传输的是___。" answer="FTP" note="">
+<choice>TFTP</choice>
+<choice>FTP</choice>
+<choice>RPC</choice>
+<choice>SNMP</choice>
+</question>
+<question title="109(1)、IP地址块222.125.80.128/26包含了____个可用主机地址，这些可用地址中最小的地址是222.125.80.129，最大地址是222.125.80.190。" answer="62" note="/26表示网络中的可分配主机地址数是232-26-2=64-2=62个，可分配地址范围是 222.125.80.129~222.125.80.190。">
+<choice>14</choice>
+<choice>30</choice>
+<choice>62</choice>
+<choice>126</choice>
+</question>
+<question title="109(2)、IP地址块222.125.80.128/26包含了62个可用主机地址，这些可用地址中最小的地址是___，最大地址是222.125.80.190。" answer="222.125.80.129" note="/26表示网络中的可分配主机地址数是232-26-2=64-2=62个，可分配地址范围是 222.125.80.129~222.125.80.190。">
+<choice>222.125.80.128</choice>
+<choice>222.125.80.129</choice>
+<choice>222.125.80.159</choice>
+<choice>222.125.80.160</choice>
+</question>
+<question title="109(3)、IP地址块222.125.80.128/26包含了62个可用主机地址，这些可用地址中最小的地址是222.125.80.129 ，最大地址是___。" answer="222.125.80.190" note="/26表示网络中的可分配主机地址数是232-26-2=64-2=62个，可分配地址范围是 222.125.80.129~222.125.80.190。">
+<choice>222.125.80.128</choice>
+<choice>222.125.80.190</choice>
+<choice>222.125.80.192</choice>
+<choice>222.125.80. 254</choice>
+</question>
+<question title="110、使用CIDR技术把4个网络202.17.0.0/21、202.17.16.0/20、202.17.8.0/22 和202.17.34.0/23汇聚成一条路由信息，得到的目标地址是____。" answer="202.17.0.0/18" note="网络1的地址范围是202.17.0.0~202.17.7.255；&#x0A;&#x0A;网络2的地址范围是202.17.16.0~202.16.31.255；&#x0A;&#x0A;网络3的地址范围是202.16.8.0~202.16.11.255；&#x0A;&#x0A;网络4的地址范围是202.16.34.0~202.16.35.255；&#x0A;&#x0A;要将这4个网络聚合到一起，需要将202.17.0.0/24~202.17.63.0/24这64个网络汇聚起来，即202.17.0.0/18">
+<choice>202.17.0.0/13</choice>
+<choice>202.17.0.0/24</choice>
+<choice>202.17.0.0/18</choice>
+<choice>202.17.8.0/20</choice>
+</question>
+<question title="111、IPV6地址为____ 位。" answer="128" note="">
+<choice>128</choice>
+<choice>64</choice>
+<choice>48</choice>
+<choice>32</choice>
+</question>
+<question title="112(1)、按照域名系统的定义，域名www.sales.microsoft.com包含4个标识符，其中___是顶级域名，microsoft 是注册给组织或个人的二级域名。" answer="com" note="">
+<choice>WWW</choice>
+<choice>sales</choice>
+<choice>microsoft</choice>
+<choice>com</choice>
+</question>
+<question title="112(2)、按照域名系统的定义，域名www.sales.microsoft.com包含4个标识符，其中com是顶级域名，___ 是注册给组织或个人的二级域名。" answer="microsoft" note="">
+<choice>WWW</choice>
+<choice>sales</choice>
+<choice>microsoft</choice>
+<choice>com</choice>
+</question>
+<question title="113、下面的FTP命令中，用于在远程计算机上创建目录的命令是____。" answer="mkdir" note="">
+<choice>pwd</choice>
+<choice>dir</choice>
+<choice>mkdir</choice>
+<choice>mdelete</choice>
+</question>
+<question title="114、IEEE 802.11标准定义的AD HOC网络是____。" answer="一种不需要AP支持的点对点无线网络" note="">
+<choice>一种需要AP支持的无线局域网络</choice>
+<choice>一种不需要AP支持的点对点无线网络</choice>
+<choice>一种采用特殊协议的有线网络</choice>
+<choice>一种调整骨干数据网络</choice>
+</question>
+<question title="114、IEEE 802.3规定的最小帧长是___字节。" answer="64" note="">
+<choice>46</choice>
+<choice>64</choice>
+<choice>512</choice>
+<choice>1500</choice>
+</question>
+<question title="115、下面关于快速以太网标准100BASE-TX的描述中，正确的是____。" answer="１00BASE-TX采用5类UTP作为传输介质" note="">
+<choice>１00BASE-TX采用3类UTP作为传输介质</choice>
+<choice>１00BASE-TX采用单模光纤作为传输介质</choice>
+<choice>１00BASE-TX采用多模光纤作为传输介质</choice>
+<choice>１00BASE-TX采用5类UTP作为传输介质</choice>
+</question>
+<question title="116(1)、以太网交换机的CONSOLE端口与PC机的____端口通过控制台电缆相连，默认的数据速率是9600b/s。" answer="1394" note="">
+<choice>COM</choice>
+<choice>PPT</choice>
+<choice>USB</choice>
+<choice>1394</choice>
+</question>
+<question title="116(2)、以太网交换机的CONSOLE端口与PC机的1394端口通过控制台电缆相连，默认的数据速率是___。" answer="9600b/s" note="">
+<choice>480b/s</choice>
+<choice>4800b/s</choice>
+<choice>9600b/s</choice>
+<choice>10Mb/s</choice>
+</question>
+<question title="117、交换机上实现VLAN，可以采用静态或动态的方法。下面关于静态VLAN的描述中，正确的是____。" answer="把交换机的各个端口固定地分配给VLAN" note="">
+<choice>把交换机的各个端口固定地分配给VLAN</choice>
+<choice>可以根据MAC地址来建立静态VLAN</choice>
+<choice>可以根据网络层协议来建立静态VLAN</choice>
+<choice>可以根据IP广播域来建立静态VLAN</choice>
+</question>
+<question title="118、HTML语言中，可使用____标签将脚本插入HTML文档。" answer="＜script＞" note="">
+<choice>＜language＞</choice>
+<choice>＜script＞</choice>
+<choice>＜javascript＞</choice>
+<choice>＜vbscript＞</choice>
+</question>
+<question title="118、以下HTML代码中，创建指向邮箱地址的链接正确的是____。" answer="＜a href="mailto:test@test.com"＞test@test.com＜/a＞" note="">
+<choice>a href="email:test@test.com"＞test@test.com＜/a＞</choice>
+<choice>＜a href="emailto:test@test.com"＞test@test.com＜/a＞</choice>
+<choice>＜a href="mail:test@test.com"＞test@test.com＜/a＞</choice>
+<choice>＜a href="mailto:test@test.com"＞test@test.com＜/a＞</choice>
+</question>
+<question title="119、在HTML语言中，_____可用来为图像定义一串预备的可替换的文本。" answer="alt" note="">
+<choice>alt</choice>
+<choice>Replace</choice>
+<choice>text</choice>
+<choice>Title</choice>
+</question>
+</root>

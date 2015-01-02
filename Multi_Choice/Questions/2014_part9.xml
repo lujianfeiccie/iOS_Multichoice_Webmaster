@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<question title="190、ISO定义的网络管理5大功能是___。" answer="故障管理、配置管理、计费管理、性能管理和安全管理" note="">
+<choice>故障管理、配置管理、计费管理、系统管理和安全管理</choice>
+<choice>故障管理、用户管理、计费管理、性能管理和安全管理</choice>
+<choice>故障管理、配置管理、计费管理、性能管理和安全管理</choice>
+<choice>故障管理、文件管理、计费管理、性能管理和安全管理</choice>
+</question>
+<question title="191、Windows系统中的服务程序SNMP Trap的作用是____。" answer="接收本地或远程SNMP代理发送的陷入信息" note="">
+<choice>接收本地或远程SNMP代理发送的陷入信息</choice>
+<choice>向远程SNMP管理器发送陷入信息</choice>
+<choice>处理本地计算机上的陷入信息</choice>
+<choice>处理远程计算机发来的陷入信息</choice>
+</question>
+<question title="192、如果一台配置成自动获取IP地址的计算机，开机后得到的IP地址是169.254.1.17，则首先应该____。" answer="检查网络连接电缆" note="">
+<choice>检查网络连接电缆</choice>
+<choice>检查网卡的工作状态</choice>
+<choice>检查DNS服务器地址配置</choice>
+<choice>查杀病毒</choice>
+</question>
+<question title="193、计算机可以用IP地址访问本地服务器，但是不能用域名访问该服务器，出现这种故障的原因可能是____。" answer="ＤＮＳ服务器配置错误" note="">
+<choice>ＩＥ浏览器配置不正确</choice>
+<choice>计算机中侵入了ARP病毒</choice>
+<choice>ＤＮＳ服务器配置错误</choice>
+<choice>网卡配置不正确</choice>
+</question>
+<question title="194、所谓网络安全漏洞是指____。" answer="系统软件或应用软件在逻辑设计上的缺陷" note="">
+<choice>用户的误操作引起的系统故障</choice>
+<choice>系统软件或应用软件在逻辑设计上的缺陷</choice>
+<choice>网络硬件性能下降产生的缺陷</choice>
+<choice>网络协议运行中出现的错误</choice>
+</question>
+<question title="195、要跟踪到达主机corp7.microsoft.com的路径，输入的命令是___。" answer="tracert corp7.microsoft.com" note="">
+<choice>tracert corp7.microsoft.com</choice>
+<choice>rout cort7.microsoft.com</choice>
+<choice>ping corp7.microsoft.com</choice>
+<choice>netstat corp7.microsoft.com</choice>
+</question>
+<question title="196、下面关系Linux目录结构的说法中错误的是_____。" answer="／tmp存放可选择安装的文件" note="">
+<choice>／etc 主要存储系统的各种配置文件</choice>
+<choice>／dev为设备文件所在目录</choice>
+<choice>／boot包括内核及系统启动时使用的文件</choice>
+<choice>／tmp存放可选择安装的文件</choice>
+</question>
+<question title="197、在Linux操作系统中，可以通过修改_____文件对DNS搜索顺序及DNS服务器的地址进行配置。" answer="resolv.conf" note="">
+<choice>inetd.conf</choice>
+<choice>lilo.conf</choice>
+<choice>httpd.conf</choice>
+<choice>resolv.conf</choice>
+</question>
+<question title="198、某Web服务器的URL为http://www.test.com ，在test.com区域中为其添加DNS记录时，主机名称为____。" answer="www" note="">
+<choice>https</choice>
+<choice>www</choice>
+<choice>https.www</choice>
+<choice>test</choice>
+</question>
+<question title="199、Web站点除了主目录以外还可以采用____作为法宝目录。" answer="虚拟目录" note="">
+<choice>副目录</choice>
+<choice>备份目录</choice>
+<choice>虚拟目录</choice>
+<choice>子目录</choice>
+</question>
+</root>

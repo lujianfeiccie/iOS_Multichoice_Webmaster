@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<question title="78、状态检测防火墙是采用____包过滤技术。" answer="动态" note="状态检测防火墙又称动态包过滤防火墙，是在传统包过滤上的功能扩展，现在已经成为防火墙的主流技术。它跟踪通过防火墙的网络连接和数据包，记录有用的信息以帮助识别包，允许或截断包的通过">
+<choice>指定</choice>
+<choice>动态</choice>
+<choice>静态</choice>
+<choice>IP地址</choice>
+</question>
+<question title="79、_____不是入侵检测的检测过程。" answer="补漏洞" note="入侵检测的检测过程包括信息收集和信号分析，信号分析包括统计分析和完整性分析。统计分析是统计正常使用时的一些测量属性（如访问次数、操作失败次数和延时等）。测量属性的平均值将被用来与网络、系统的行为进行比较，以观察平均值是否在正常值范围之内。完整性分析主要关注某个文件或对象是否被更改。补漏洞是入侵检测后采用的修补手段，不属于检测过程">
+<choice>信息收集</choice>
+<choice>统计分析</choice>
+<choice>完整性分析</choice>
+<choice>补漏洞</choice>
+</question>
+<question title="80、关于漏洞扫描，描述不正确的是_____。" answer="防火墙系统不存在漏洞" note="漏洞扫描系统是一种自动检测远程或本地主机安全性弱点的程序。通过使用漏洞扫描系统，系统管理员能够发现所维护的Web服务器的各种TCP端口分配、提供的服务、Web服务软件版本和这些服务及软件呈现在Internet上的安全漏洞。只要是计算机系统，尤其是软件系统，就可能存在漏洞。出现漏洞，可能招致黑客入侵和病毒传播。因此出现漏洞需要下载补丁程序及时修补">
+<choice>防火墙系统不存在漏洞</choice>
+<choice>漏洞可以通过下载补丁程序修补</choice>
+<choice>病毒可以通过漏洞传播</choice>
+<choice>漏洞会招致黑客入侵</choice>
+</question>
+<question title="81、数字签名实际上是做____。" answer="加密操作" note="数字签名可以解决电子交易中否认、伪造、篡改及冒充等问题。即发送者事后不能否认发送的报文签名、接收者能够核实发送者发送的报文签名、接收者不能伪造和篡改发送者的报文签名。数字签名实际是对发送的数据进行加密，一种实现方式是发送者用自己的私钥对发送的数据进行加密，接收方用发送方的公钥解密">
+<choice>审查工作</choice>
+<choice>解密操作</choice>
+<choice>身份认证</choice>
+<choice>加密操作</choice>
+</question>
+<question title="82、MIB在管理系统的作用是_____。" answer="负责对物理网络的操作" note="MIB是一个网络管理中的信息存储库，是网络管理系统中的一个非常重要的部分。网络操作员在管理网络时，只与MIB打交道，当他要对网络功能进行调整时，只需更新数据库中对应的数据即可，实际对物理网络的操作由数据库系统控制完成">
+<choice>只记录统计信息</choice>
+<choice>近负责数据的传递</choice>
+<choice>负责对物理网络的操作</choice>
+<choice>定义数据表示方式</choice>
+</question>
+<question title="83、当浏览网页而不想播放其中的声音时，可以____。" answer="浏览器Internet选项中禁止播放声音" note="计算机中不播放声音的物理方法是硬件控制，即将声卡控制置成静音。当只在浏览器中不想播放多媒体声音时，可以在“Internet选项”→“高级”→“多媒体控制”中取消“播放网页中的声音”复选框">
+<choice>置成静音</choice>
+<choice>浏览器Internet选项中禁止播放视频</choice>
+<choice>浏览器Internet选项中禁止播放声音</choice>
+<choice>控制面板中禁止播放声音</choice>
+</question>
+<question title="84、Linux中关于文件权限描述不正确的是_____。" answer="默认情况下同组用户可以执行修改" note="Linux中，每个文件和目录都有许可访问权限，分为用户权限、用户组权限和其他用户权限。用户权限指属主权限，默认情况下，属主可以读写（修改），同组用户和其他组用户只能读">
+<choice>分成3种不同的组权限</choice>
+<choice>具有读写执行权限</choice>
+<choice>可以进行修改</choice>
+<choice>默认情况下同组用户可以执行修改</choice>
+</question>
+<question title="85、复选框默认值是选取，这是通过设置属性_____完成的。" answer="checked" note="在HTML中，复选框（checkbox）是通过将input标记的type属性设为checkbox完成的。input标记的语法如下：maxlength=&quot;integer&quot; size=&quot;integer&quot; src=&quot;url&quot; event&gt;&#x0A;其中各个属性的作用说明如下。&#x0A;&#x0A;type：指定控件的类型。&#x0A;&#x0A;align：当控件类型为image时，用来指定周围文本的对齐方式。&#x0A;&#x0A;checked：当控件类型为checkbox或radio时，用来指示默认选定。&#x0A;&#x0A;name：指定与控件相关联的表单输入变量的名称。&#x0A;&#x0A;value：为password和text控件指定表单输入变量的默认值。对于checkbox和radio控件，value是提交时输入变量的值；对于reset和submit控件，value是按钮上的标题。&#x0A;&#x0A;maxlength：用来指定password和text控件中所允许的最大字符数。&#x0A;&#x0A;size：用来指定password和text控件的字符长度。&#x0A;&#x0A;src：当指定image类型时，指示要显示图像的url。&#x0A;&#x0A;event：在提交控件的值之后激发的事件，不同的控件支持不同的事件">
+<choice>value</choice>
+<choice>name</choice>
+<choice>type</choice>
+<choice>checked</choice>
+</question>
+<question title="86、不会出现在文件头中的标记是____。" answer="＜center＞„＜/center＞" note="HTML文档头由元素标记，可以包含以下元素。&#x0A;窗口标题（title）：它是文档头中唯一一个必须出现的元素。&#x0A;脚本语言：脚本是一组由浏览器解释执行的语句，能赋予页面更多的交互性。 样式定义：用来将页面样式与内容相分离的级联样式单。&#x0A;元数据（meta）：提供有关文档内容和主题的信息">
+<choice>＜meta＞</choice>
+<choice>＜head＞„＜/head＞</choice>
+<choice>＜center＞„＜/center＞</choice>
+<choice>＜title＞„＜/title＞</choice>
+</question>
+<question title="87、HTML提供了6种标题字体，其中字体最大的是_____。" answer="h1" note="HTML中页面标题有6种，分别为h1、h2、„、h6，用于表示文章中的各种标题，标题号越小字体越大。一般情况下，浏览器对标题做如下解释。 h1：黑体，特大字体，居中，上下各有两行空行。&#x0A;&#x0A;h2：黑体，大字体，上下各有一到两行空行。&#x0A;&#x0A;h3：黑体（斜体），大字体，左端微缩进，上下空行。&#x0A;&#x0A;h4：黑体，普通字体，比h3更多缩进，上边有一空行。&#x0A;&#x0A;h5：黑体（斜体），与h4相同缩进，上边有一空行。&#x0A;&#x0A;h6：黑体，与正文有相同缩进，上边有一空行">
+<choice>h1</choice>
+<choice>h5</choice>
+<choice>h6</choice>
+<choice>h0</choice>
+</question>
+<question title="88、XML从根本上有别于HTML的特性是_____。" answer="可扩展性" note="XML，即可扩展标记语言，是用于标记电子文件的结构化语言。与HTML相比，XML是一种真正的数据描述语言，它没有固定的标记符号，允许用户自己定义一套适合于应用的文档元素类型，因而具有很大的灵活性。XML包含了大量的自解释型的标识文本，每个标识文本又由若干规则组成，这些规则可用于标识，使XML能够让不同的应用系统理解相同的含义，正是由于这些标识的存在，XML能够有效地表达网络上的各种知识，也为网上信息交换提供了载体。XML解决了HTML存在的局限，能够满足下一代Web对文档的组织在数据表达能力、扩展能力、安全性上提出的新要求">
+<choice>可扩展性</choice>
+<choice>结构化</choice>
+<choice>跨平台</choice>
+<choice>无序性</choice>
+</question>
+<question title="90、未经软件著作权人或者合法受让者的同意，复制或部分复制其软件作品。此种行为侵犯了著作权人或其合法受让者使用权中的____。" answer="复制权" note="我国软件著作法规定软件著作权人享有的使用权是指在不损害社会公共利益的前提下以复制、修改、翻译、发行和注释等方式合作开发软件的权利。未经软件著作权人或者合法受让者的同意，复制或部分复制其软件作品的行为侵犯了著作权人或其合法受让者使用权中的复制权">
+<choice>复制权</choice>
+<choice>发行权</choice>
+<choice>发表权</choice>
+<choice>翻译权</choice>
+</question>
+<question title="91、我国发明专利的保护期为____年。" answer="20" note="《专利法》规定发明专利权的期限为20年，实用新型专利权和外观设计专利权的期限为10年">
+<choice>10</choice>
+<choice>15</choice>
+<choice>20</choice>
+<choice>30</choice>
+</question>
+<question title="92、将某ASCII字符采用偶校验编码（7位字符编码+1位校验码）发送给接收方，在接收方收到的8位数据中，若____，则能确定传输过程中发生的错误。" answer="“1”的个数为奇数" note="">
+<choice>“1”的个数为奇数</choice>
+<choice>“1”的个数为偶数</choice>
+<choice>最低位为“1”</choice>
+<choice>最高位为“1”</choice>
+</question>
+<question title="93、若内存按字节编址，用存储容量为32K×8比特的存储器芯片构成地址编号A0000H至DFFFFH的内存空间，则至少需要____片。" answer="8" note="DFFFFH – A0000 + 1 = 40000H&#x0A;40000H / 8000H(32K) = 8">
+<choice>4</choice>
+<choice>6</choice>
+<choice>8</choice>
+<choice>10</choice>
+</question>
+<question title="94、32位微处理器的32是指_____。" answer="CPU字长为32位" note="">
+<choice>系统总线的宽度为32位</choice>
+<choice>处理的数据长度只能为32位</choice>
+<choice>ＣPU字长为32位</choice>
+<choice>通用寄存器数目为32个</choice>
+</question>
+<question title="95、以下关于CPU与主存之间增加调整缓存（Cache）的叙述，不正确的是____。" answer="Ｃache扩充了主存储器的容量" note="">
+<choice>Ｃache扩充了主存储器的容量</choice>
+<choice>Ｃache可以降低由于CPU与主存之间的速度差异造成的系统性能影响</choice>
+<choice>Ｃache的有效性是利用了对主存储器访问的局部特征</choice>
+<choice>Ｃache中通常保存着主存储器中部分内容的一份副本</choice>
+</question>
+<question title="96(1)、衡量计算机的主要性能指标除了字长、存取周期、运算速度之外，通常还包括____, 因为其反映了计算机即时存储信息的能力" answer="主存储器容量大小" note="">
+<choice>外部设备数量</choice>
+<choice>计算机的制造成本</choice>
+<choice>计算机的体积</choice>
+<choice>主存储器容量大小</choice>
+</question>
+<question title="96(2)、衡量计算机的主要性能指标除了字长、存取周期、运算速度之外，通常还包括主存储器容量大小, 因为其反映了____" answer="计算机即时存储信息的能力" note="">
+<choice>每秒钟所能执行的指令条数</choice>
+<choice>存储器读写速度</choice>
+<choice>计算机即时存储信息的能力</choice>
+<choice>该计算机保存大量信息的能力</choice>
+</question>
+<question title="97、用户提出需求并提供经费，委托软件公司开发软件。但在双方商定的协议中未涉及软件著作权的归属，则软件著作权属于____所有。" answer="软件公司" note="">
+<choice>软件用户</choice>
+<choice>软件公司</choice>
+<choice>用户与软件公司共同</choice>
+<choice>社会公众</choice>
+</question>
+<question title="98、李某购买了一张有注册商标的正版软件光盘，擅自将其复制出售，则该行为侵犯了开发商____。" answer="知识产权" note="">
+<choice>财产所有权</choice>
+<choice>商标权</choice>
+<choice>物权</choice>
+<choice>知识产权</choice>
+</question>
+<question title="99、若不考虑I/O设备本身的性能，则影响计算机系统I/O数据传输速度的主要因素是权属于____。" answer="数据总线宽度" note="">
+<choice>地址总线宽度</choice>
+<choice>数据总线宽度</choice>
+<choice>主存储器的容量</choice>
+<choice>CPU的字长</choice>
+</question>
+<question title="100、十六进制数CC所对应的八进制数为____。" answer="314" note="将十六进制CC转换成二进制表达，为11001100；再将其转换为八进制，为314。">
+<choice>314</choice>
+<choice>630</choice>
+<choice>1414</choice>
+<choice>3030</choice>
+</question>
+<question title="101、CPU中的____的值可自动加1，以便实现程序指令的顺序执行。" answer="程序计数器（PC）" note="为了保证程序(在操作系统中理解为进程)能够连续地执行下去，CPU必须具有某些手段来确定下一条指令的地址。而程序计数器正是起到这种作用，所以通常又称为指令计数器。在程序开始执行前，必须将它的起始地址，即程序的一条指令所在的内存单元地址送入PC，因此程序计数器（PC）的内容即是从内存提取的第一条指令的地址。当执行指令时，CPU将自动修改PC的内容，即每执行一条指令PC增加一个量，这个量等于指令所含的字节数，以便使其保持的总是将要执行的下一条指令的地址。由于大多数指令都是按顺序来执行的，所以修改的过程通常只是简单的对PC加1。">
+<choice>指令计数器（IR）</choice>
+<choice>程序计数器（PC）</choice>
+<choice>地址寄存器（AR）</choice>
+<choice>指令译码器（ID）</choice>
+</question>
+<question title="102、源程序中的____与程序的运行结果无关。" answer="注释的多少" note="">
+<choice>注释的多少</choice>
+<choice>变量的赋值</choice>
+<choice>循环语句的执行次数</choice>
+<choice>表达式的求值方式</choice>
+</question>
+</root>

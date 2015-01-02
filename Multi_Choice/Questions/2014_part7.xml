@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<question title="145、设内存按字节编址，若8K×8存储空间的起始地址为7000H，则该存储空间的最大地址编号为_____。" answer="8FFF" note="">
+<choice>7FFF</choice>
+<choice>8FFF</choice>
+<choice>9FFF</choice>
+<choice>AFFF</choice>
+</question>
+<question title="146、计算机中，执行一条指令所需要的时间称为指令周期，完成一项基本操作所需要的时间称为机器周期，时钟脉冲的重复周期称为时钟周期。因此____。" answer="指令周期大于时钟周期" note="">
+<choice>时钟周期大于机器周期</choice>
+<choice>指令周期等于机器周期</choice>
+<choice>机器周期大于指令周期</choice>
+<choice>指令周期大于时钟周期</choice>
+</question>
+<question title="147、使用电容存储信息且需要周期性地进行刷新的存储器是_____。" answer="DRAM" note="">
+<choice>DRAM</choice>
+<choice>EPROM</choice>
+<choice>SRAM</choice>
+<choice>EEPROM</choice>
+</question>
+<question title="148(1)、____越高，屏幕上图像的闪烁感越小，图像越稳定，视觉效果也越好。当前PC机种该指标大多采用75 Hz。" answer="刷新频率" note="">
+<choice>分辨率</choice>
+<choice>显存容量</choice>
+<choice>刷新频率</choice>
+<choice>色深</choice>
+</question>
+<question title="148(2)、刷新频率越高，屏幕上图像的闪烁感越小，图像越稳定，视觉效果也越好。当前PC机种该指标大多采用___Hz。" answer="75" note="">
+<choice>88</choice>
+<choice>75</choice>
+<choice>65</choice>
+<choice>55</choice>
+</question>
+<question title="149、计算机软件只要开发完成就能获得____并受到法律保护。" answer="著作权" note="">
+<choice>著作权</choice>
+<choice>专利权</choice>
+<choice>商标权</choice>
+<choice>商业秘密权</choice>
+</question>
+<question title="150、著作权的权利人不包括______。" answer="发明人" note="">
+<choice>发明人</choice>
+<choice>翻译人</choice>
+<choice>汇编人</choice>
+<choice>委托人</choice>
+</question>
+<question title="151、按照国际电话电报资讯委员会（CCITT）的定义，_____属于表现媒体（Presentation Medium）。" answer="显示器" note="">
+<choice>声音</choice>
+<choice>图像编码</choice>
+<choice>显示器</choice>
+<choice>光盘</choice>
+</question>
+<question title="152、____表明了显示屏上能够显示出的像素数目。" answer="显示分辨率" note="">
+<choice>显示分辨率</choice>
+<choice>图像分辨率</choice>
+<choice>垂直分辨率</choice>
+<choice>水平分辨率</choice>
+</question>
+<question title="152、在C程序运行过程中，可以修改____。" answer="变量的值" note="">
+<choice>变量的类型</choice>
+<choice>变量的名</choice>
+<choice>变量的值</choice>
+<choice>变量的作用域</choice>
+</question>
+<question title="153、程序运行过程中，把函数（或过程）调用与相应调用所需要的代码相结合的过程称为_____。" answer="动态绑定" note="">
+<choice>语义分析</choice>
+<choice>代码连续</choice>
+<choice>静态绑定</choice>
+<choice>动态绑定</choice>
+</question>
+<question title="154、将来源不同的编译单元装配成一个可执行程序是____的任务。" answer="连接程序" note="">
+<choice>连接程序</choice>
+<choice>编译程序</choice>
+<choice>解释程序</choice>
+<choice>汇编程序</choice>
+</question>
+<question title="155(1)、若用8位机器码表示二进制数-111，则原码表示的十六进制形式为____ ；补码表示的十六进制形式为F9。" answer="87" note="">
+<choice>81</choice>
+<choice>87</choice>
+<choice>0F</choice>
+<choice>FF</choice>
+</question>
+<question title="155(2)、若用8位机器码表示二进制数-111，则原码表示的十六进制形式为87 ；补码表示的十六进制形式为____。" answer="F9" note="">
+<choice>F9</choice>
+<choice>F0</choice>
+<choice>89</choice>
+<choice>80</choice>
+</question>
+<question title="156、曼彻斯特编码与不归零码（NRZ）相比，其优点是_____。" answer="能提供比特同步信息" note="">
+<choice>编码效率更高</choice>
+<choice>能提供比特同步信息</choice>
+<choice>可以提供更高的数据速率</choice>
+<choice>可以提供更大的输出功率</choice>
+</question>
+<question title="157、无线微波通信在数据通信中占有重要地位，微波通信的特点是____。" answer="微波频段的干扰少，传输质量高" note="">
+<choice>微波收到电离层的反射，可以传到很远的距离</choice>
+<choice>卫星微波系统需要4个以上的通信卫星才能覆盖地球表面</choice>
+<choice>微波频段的干扰少，传输质量高</choice>
+<choice>卫星微波通信的延迟小，适合交互式应用</choice>
+</question>
+<question title="158、码分多址（CDMA）是一种多路复用技术，在CDMA系统中是靠____来区分不同的信道。" answer="码序列" note="">
+<choice>码序列</choice>
+<choice>波长</choice>
+<choice>频率</choice>
+<choice>时间</choice>
+</question>
+<question title="159、帧中继作为一种远程接入方式有许多优点，下面的选项中错误的是_____。" answer="帧中继比异步传输模式能提供更高的数据速率" note="">
+<choice>帧中继比X.25的通信开销少，传输速度更快</choice>
+<choice>帧中继与DDN相比，能以更灵活的方式支持突发式通信</choice>
+<choice>帧中继比异步传输模式能提供更高的数据速率</choice>
+<choice>租用帧中继虚电路比租用DDN专线的费用低</choice>
+</question>
+<question title="160、配置以太网交换机时把PC机的串行口与交换机的______用控制台电缆相连。" answer="Ｃonsole端口" note="">
+<choice>ＲJ-45端口</choice>
+<choice>同步串行口</choice>
+<choice>Ｃonsole端口</choice>
+<choice>ＡUX端口</choice>
+</question>
+<question title="161、IPv4数据包首部的最小长度为____字节。" answer="20" note="">
+<choice>10</choice>
+<choice>20</choice>
+<choice>30</choice>
+<choice>40</choice>
+</question>
+<question title="162、OSPF是一种内部网关协议，这种协议的特点是____。" answer="采用链路状态算法来计算到达目标的最短通路" note="">
+<choice>采用距离矢量算法自动进行路由更新</choice>
+<choice>采用链路状态算法来计算到达目标的最短通路</choice>
+<choice>以跳步数作为路有度量标准</choice>
+<choice>当出现路由环路时算法收敛很慢</choice>
+</question>
+<question title="163、下面给出的网络地址中，属于私网地址的是_____。" answer="10.25.34.124" note="">
+<choice>128.12.73.214</choice>
+<choice>192.32.146.23</choice>
+<choice>172.34.21.18</choice>
+<choice>10.25.34.124</choice>
+</question>
+<question title="164、网络212.31.136.0/24和212.31.143.0/24汇聚后的地址是____。" answer="212.31.136.0/21" note="">
+<choice>212.31.136.0/21</choice>
+<choice>212.31.136.0/20</choice>
+<choice>212.31.136.0/22</choice>
+<choice>212.31.128.0/21</choice>
+</question>
+<question title="165、IP地址块202.120.80.128/26包含了____个主机地址。" answer="62" note="">
+<choice>15</choice>
+<choice>31</choice>
+<choice>62</choice>
+<choice>127</choice>
+</question>
+<question title="166、下面给出的地址中，包含在地址块172.17.16.0/23中的广播地址是____。" answer="172.17.17.255/23" note="">
+<choice>172.17.17.255/23</choice>
+<choice>172.17.16.255/23</choice>
+<choice>172.17.17.255/22</choice>
+<choice>172.17.31.255/22</choice>
+</question>
+</root>
